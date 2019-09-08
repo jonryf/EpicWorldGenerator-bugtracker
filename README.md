@@ -1,6 +1,6 @@
 # EpicWorldGenerator Documentation
 
-This is the official github documentation and issue tracker of EpicWorldGenerator & EpicEndGenerator and anything related with it.
+This is the official github documentation and issue tracker of EpicWorldGenerator & EpicNetherGenerator and anything related with it.
 
 If you have something to submit please go [here](https://github.com/jonryf/EpicWorldGenerator-documentation/issues/new/choose)
 
