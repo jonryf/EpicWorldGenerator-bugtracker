@@ -1,4 +1,4 @@
-# EpicWorldGenerator Documentation
+# EpicWorldGenerator Bugtracker
 
 ![Poster image](http://i.imgur.com/KlqiQeQ.png)
 
